@@ -1,10 +1,10 @@
 package Practice;
 
-public class Car extends Vehicle {
+public class Truck {
     public String name;
     public int speed;
 
-    public Car(String name, int speed) {
+    public Truck(String name, int speed) {
         this.name = name;
         this.speed = speed;
     }
